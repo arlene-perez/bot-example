@@ -1,1 +1,3 @@
 # bot-example
+
+TYPO!
