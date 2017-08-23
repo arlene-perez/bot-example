@@ -1,2 +1,2 @@
 # bot-example 
-#Test: works!
+I just contributed to my first Open Source Project!
